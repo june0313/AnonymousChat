@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/xml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XML 프로그래밍 1반" />
+    
+    <Button 
+        android:id="@+id/network"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="컴퓨터 네트워크" />
+
+</LinearLayout>
